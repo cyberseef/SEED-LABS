@@ -1,7 +1,3 @@
-Certainly! Here's an improved version of your README that maintains a professional and welcoming tone while ensuring clarity and structure:
-
----
-
 # Welcome to the SEED Labs Repository 🌟
 
 **As-Salamu Alaikum, Dear Reader,**  
